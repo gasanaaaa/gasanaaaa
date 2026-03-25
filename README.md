@@ -11,7 +11,7 @@
   
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=2000&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=iae;eu+sou+o+Marco+Andr%C3%A9;mais+conhecido+como+gasana;dev+junior;C3%A9+nois+" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=2000&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=iae;eu+sou+o+Marco+Andr%C3%A9;mais+conhecido+como+gasana;dev+junior;🧌👨🏽‍💻+" alt="Typing SVG" /></a>
 </div>
 
 <br>
